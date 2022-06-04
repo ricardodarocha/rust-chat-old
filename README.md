@@ -2,13 +2,13 @@
 
 This is the not most up to date approach to write a chat in Rust, But I'm very hapy that I could run it without any effort, and It still working!!
 
-Greate, but most inpressive is the [Rust Class]() that @nbaksalyar give us
+Greate, but most inpressive is the [Rust Class](http://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html) that @nbaksalyar give us
 
 The detailed tutorial is available in a series of blog posts:
 
 * [Rust in Detail: Writing Scalable Chat Service from Scratch](http://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html) ([中国](http://markindev.github.io/2016/02/15/Rust-in-Details-Part-1/), [한국어](http://blog.naver.com/futurewave01/220539095123), на [русском](https://habrahabr.ru/post/268609/)).
 * [Rust in Detail, Part 2](http://nbaksalyar.github.io/2015/11/09/rust-in-detail-2.html) (на [русском](https://habrahabr.ru/post/278635/)).
-* More to come...
+
 
 # Try it
 
