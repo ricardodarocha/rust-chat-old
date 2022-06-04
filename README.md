@@ -1,6 +1,6 @@
 # Rust Chat
 
-This is the not most up to date approach to write a chat in Rust, But I'm very hapy that I could run it without any effort, and It still working!!
+This is not the most up to date approach to write a chat in Rust, But I'm very hapy that I could run it without any effort, and It still working!!
 
 Greate, but most inpressive is the [Rust Class](http://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html) that @nbaksalyar give us
 
