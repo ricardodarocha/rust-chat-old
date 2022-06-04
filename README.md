@@ -17,7 +17,7 @@ git clone this or those repository
 cargo run 
 ```
 Then the browser and look for the Developer Tools, try to put this code into console.log
-```Just
+```JS
 ws = new WebSocket('ws://127.0.0.1:10000');
 
 ws.onmessage = function (event) {
@@ -29,5 +29,6 @@ ws.onmessage = function (event) {
 ```
 
 Open two browser to experiment talking to each other
-
+```JS
 ws.send('Hey there!')
+```
